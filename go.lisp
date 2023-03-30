@@ -84,7 +84,7 @@
         (return (cdr record)))))
 
 (defun move (element x y)
-  (setf (aref *board* y x) element)
+  (setb y x element)
   *board*)
 
 (defmacro w (x y)
