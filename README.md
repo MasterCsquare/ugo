@@ -7,10 +7,9 @@ The project is currently in alpha stage, only support free-mode.
 If the gif is not clear enough, please see the webm.
 
 # TODO
-- a SDL frontend
+- a SDL front end
 - integrate AI
-- 9x9, 13x13, 17x17 board
-- pratice mode
-- ultimate mode(specify 21x21 or more)
-- free rule(include self-kill)
-- coordrinate axis covertion(to support any annotations)
+- practice mode
+- ultimate mode(specify 21x21 or more, any size boards)
+- free rules(include self-kill, CJK rules)
+- coordinate axis conversion(to support any annotations)
