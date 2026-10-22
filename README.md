@@ -1,3 +1,3 @@
 # screencast
 
-[the screencast](ugo.gif)
+![the screencast](ugo.gif)
