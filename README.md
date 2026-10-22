@@ -1,2 +1,3 @@
 # screencast
-![This is the screencast][./ugo.webm]
+
+[the screencast](ugo.gif)
