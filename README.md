@@ -2,11 +2,9 @@
 
 ![the screencast](ugo.gif)
 
-The project is currently in alpha stage, only support free-mode.
-
 If the gif is not clear enough, please see the webm.
 
-# 数气制 (liberty counting)
+# 数气制 (liberty counting) for users never learn go
 
 A scoring rule where liberties, not territory, decide the game.
 
